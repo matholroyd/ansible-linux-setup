@@ -9,4 +9,4 @@ vendor/bundle
 cache
 .bundle
 backups
-site.retry
+*.retry
