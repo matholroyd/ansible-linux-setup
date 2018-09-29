@@ -1,0 +1,12 @@
+*.tmproj
+tmp
+log
+.DS_Store
+TODOS.txt
+JOURNAL.txt
+vendor/bundle
+.ruby-version
+cache
+.bundle
+backups
+site.retry
